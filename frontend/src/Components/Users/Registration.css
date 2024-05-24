@@ -1,0 +1,49 @@
+/* .section{
+    background-color: #007B88;
+}
+.form{
+    background-color: #293858;
+}
+.card-title{
+    background-color: #00F1DD;
+} */ 
+/* Login.css */
+body {
+    background: linear-gradient(135deg, #1cb5e0 0%, #007E8A 100%);
+  }
+  
+  .card {
+    background: #293858;
+    /* color: white; */
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+  }
+  .Remember{
+    color: #007B88;
+  }
+  .card input {
+    background: #4D5974;
+    border: none;
+    color: white;
+  }
+  
+  .card input::placeholder {
+    color: #ccc;
+  }
+  
+  .card .btn-primary {
+    background: #1cb5e0;
+    border: none;
+  }
+  
+  .card .btn-primary:hover {
+    background: #119bb8;
+  }
+  
+  .card a {
+    color: #1cb5e0;
+  }
+  
+  .card a:hover {
+    color: #119bb8;
+  }
+  
